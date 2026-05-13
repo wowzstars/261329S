@@ -3,6 +3,7 @@ My TO-DO List
 2. Code
 3. Study lessons
 4. Attend class on time
+<<<<<<< HEAD
 5. Visit library EVERY FRIDAY
 6. Apply for IT jobs.
 7. Enrol for short courses in IT
@@ -10,3 +11,9 @@ My TO-DO List
 9. Get certified
 10. Apply for new IT job
 
+=======
+5. Visit library
+6. Apply for IT job
+Commit to increase your skills in IT
+Search for short courses in IT
+>>>>>>> 8317e0dfe8a9b9d6c1e1fb181a729ff748ab0854
